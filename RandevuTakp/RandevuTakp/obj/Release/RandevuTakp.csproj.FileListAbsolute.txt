@@ -1,0 +1,11 @@
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\bin\Release\RamdevuTakp.exe.config
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\bin\Release\RamdevuTakp.exe
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\bin\Release\RamdevuTakp.pdb
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\obj\Release\RandevuTakp.Form1.resources
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\obj\Release\RandevuTakp.Guncelle.resources
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\obj\Release\RandevuTakp.HastaBilgisi.resources
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\obj\Release\RandevuTakp.Properties.Resources.resources
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\obj\Release\RandevuTakp.csproj.GenerateResource.Cache
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\obj\Release\RamdevuTakp.exe
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\obj\Release\RamdevuTakp.pdb
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\obj\Release\RandevuTakp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+c:\users\enes\documents\visual studio 2013\Projects\RamdevuTakp\RamdevuTakp\bin\Debug\RamdevuTakp.exe.config
+C:\Users\enes\documents\visual studio 2013\Projects\RamdevuTakp\RamdevuTakp\obj\Debug\RamdevuTakp.csprojResolveAssemblyReference.cache
+C:\Users\enes\documents\visual studio 2013\Projects\RamdevuTakp\RamdevuTakp\obj\Debug\RamdevuTakp.Form1.resources
+C:\Users\enes\documents\visual studio 2013\Projects\RamdevuTakp\RamdevuTakp\obj\Debug\RamdevuTakp.HastaBilgisi.resources
+C:\Users\enes\documents\visual studio 2013\Projects\RamdevuTakp\RamdevuTakp\obj\Debug\RamdevuTakp.Properties.Resources.resources
+C:\Users\enes\documents\visual studio 2013\Projects\RamdevuTakp\RamdevuTakp\obj\Debug\RamdevuTakp.csproj.GenerateResource.Cache
+C:\Users\enes\documents\visual studio 2013\Projects\RamdevuTakp\RamdevuTakp\bin\Debug\RamdevuTakp.exe
+C:\Users\enes\documents\visual studio 2013\Projects\RamdevuTakp\RamdevuTakp\bin\Debug\RamdevuTakp.pdb
+C:\Users\enes\documents\visual studio 2013\Projects\RamdevuTakp\RamdevuTakp\obj\Debug\RamdevuTakp.exe
+C:\Users\enes\documents\visual studio 2013\Projects\RamdevuTakp\RamdevuTakp\obj\Debug\RamdevuTakp.pdb
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RamdevuTakp\bin\Debug\RamdevuTakp.exe.config
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RamdevuTakp\obj\Debug\RamdevuTakp.exe

@@ -1,0 +1,13 @@
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RamdevuTakp\bin\Debug\RamdevuTakp.exe.config
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RamdevuTakp\obj\Debug\RamdevuTakp.exe
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\bin\Debug\RamdevuTakp.exe.config
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\obj\Debug\RamdevuTakp.exe
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\bin\Debug\RamdevuTakp.exe
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\bin\Debug\RamdevuTakp.pdb
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\obj\Debug\RandevuTakp.csprojResolveAssemblyReference.cache
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\obj\Debug\RandevuTakp.Form1.resources
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\obj\Debug\RandevuTakp.HastaBilgisi.resources
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\obj\Debug\RandevuTakp.Properties.Resources.resources
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\obj\Debug\RandevuTakp.csproj.GenerateResource.Cache
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\obj\Debug\RamdevuTakp.pdb
+C:\Users\enes\Documents\Visual Studio 2013\Projects\RandevuTakp\RandevuTakp\obj\Debug\RandevuTakp.Guncelle.resources
